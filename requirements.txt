@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-core
+langchain-together
+pydantic
+python-dotenv
+pytesseract
+pdfplumber
+docx2txt
+pillow
+pandas
+matplotlib
