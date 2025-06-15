@@ -100,6 +100,7 @@ if uploaded_file:
 
 
     options = st.selectbox("Select Analysis Feature", [
+        "-- Select Feature --",
         "Descriptive Statistics",
         "Missing Value Analysis",
         "Correlation Matrix",
