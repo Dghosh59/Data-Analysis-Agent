@@ -2,6 +2,7 @@ import contextlib
 import matplotlib.pyplot as plt
 import io
 import traceback
+import pandas as pd
 def execute_generated_code(code: str):
     output = io.StringIO()
     local_vars = {}
